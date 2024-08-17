@@ -2,6 +2,8 @@
 Tools for compress and decompress images in the gb game.  
   
 You will need a copy of your rom "Marmalade Boy.gb" and python 3  
+ROM SHA-1: 60125690B7A354FF8E72F497C8A88ECD691E7E4B  
+ROM CRC32: F3FF7DA  
 
 1-Place the rom in the folder with the files  
 2-Run the file Decompressor.py (Extract the compressed graphics from the listed offsets)  
@@ -14,6 +16,8 @@ To compress add its (name).bin to the Compressor.
 Herramientas para comprimir y descomprimir imágenes en el juego gb.   
 
 Necesitarás una copia de tu rom "Marmalade Boy.gb" y python 3  
+ROM SHA-1: 60125690B7A354FF8E72F497C8A88ECD691E7E4B  
+ROM CRC32: F3FF7DA  
 
 1-Coloca el rom en la carpeta con los archivos  
 2-Ejecuta el archivo Decompressor.py (Extrae los graficos comprimidos desde los offsets enlistados)  
